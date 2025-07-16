@@ -1,4 +1,4 @@
-# Backend Engineer | Python • FastAPI • LLMs • GenAI
+# Senior Software Engineer | Backend + GenAI Engineer (Python, FastAPI, LLMs) | RAG & LLM Agents | micro1.ai Certified
 
 Backend engineer with 6+ years of experience building backend systems, APIs, and AI-powered tools.  
 I focus on solving the right problems, writing maintainable code, and making technical decisions that balance speed and long-term stability.
