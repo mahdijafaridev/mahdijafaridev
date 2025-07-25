@@ -14,6 +14,6 @@ I'm always learning and exploring better ways to build with AI. I enjoy connecti
 
 Let’s connect if you’re into any of that.
 
-- 🌐 mahdijafari.dev
-- 📝 Blog: https://medium.com/@mahdijafaridev
-- 💻 GitHub: @mahdijafaridev
+- 🌐 [Website](https://mahdijafari.dev/)
+- 📝 [Blog](https://mahdijafari.dev/blog) 
+- 💻 [Linkedin](https://www.linkedin.com/in/mahdijafaridev)
