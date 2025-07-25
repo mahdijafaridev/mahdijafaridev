@@ -1,34 +1,18 @@
-# Senior Software Engineer | Backend + GenAI Engineer (Python, FastAPI, LLMs) | RAG & LLM Agents | micro1.ai Certified
+# Backend + AI Engineer | Python, FastAPI, LLMs, RAG & Agents | micro1.ai Certified
 
-Backend engineer with 6+ years of experience building backend systems, APIs, and AI-powered tools.  
-I focus on solving the right problems, writing maintainable code, and making technical decisions that balance speed and long-term stability.
+I'm a backend+AI Engineer with 6+ years of experience building and scaling backend systems. I mainly work with Python and FastAPI, and in recent years, I've been focused on integrating AI into backend workflows — especially LLMs, RAG, and agent-based systems.
 
-Most of my work sits at the intersection of backend development and GenAI — powering real products with LLMs, agents, and data pipelines.
+I care about writing clean, maintainable code while delivering fast and solving real problems with practical solutions — no overengineering. Most of my work revolves around:
 
----
+- Designing scalable backend systems and APIs
 
-### What I Work On
-- Scalable backend systems using Python and FastAPI
-- LLM-powered tools and agents (LangChain, RAG, OpenAI, Anthropic)
-- Infrastructure and CI/CD workflows (Docker, GitHub Actions, GCP, AWS)
-- System design, API architecture, and engineering team support
+- Building LLM agents and RAG pipelines
 
----
+- Using Docker, CI/CD, and cloud platforms (AWS, GCP) for smooth DevOps workflows
 
-### Technical Writing
-I write about engineering patterns, backend lessons, and APIs:
+I'm always learning and exploring better ways to build with AI. I enjoy connecting with engineers, researchers, and product folks who are working at the intersection of backend and GenAI.
 
-- [13 REST API Hacks I Wish I Knew 5 Years Ago](https://medium.com/@mahdijafaridev/13-rest-api-hacks-i-wish-i-knew-5-years-ago-fd66b241ed75)
-- [10 Lessons from 5 Years in Backend Engineering](https://medium.com/@mahdijafaridev/10-lessons-i-learned-from-5-years-of-being-a-software-engineer-1a3bcd10412e)
-- [Mastering SOLID Principles in Python (Series)](https://medium.com/@mahdijafaridev/mastering-solid-principles-in-python-understanding-open-closed-principle-56d98a9d699)
-
----
-
-### Connect
-* 🌐 [mahdijafari.dev](https://mahdijafari.dev)
-* 💼 [LinkedIn](https://www.linkedin.com/in/mahdijafaridev)
-* ✍️ [Medium](https://medium.com/@mahdijafaridev)
-
-Open to collaboration, feedback, and working on meaningful backend or GenAI problems.
-
-
+Let’s connect if you’re into any of that.
+🌐 mahdijafari.dev
+📝 Blog: https://medium.com/@mahdijafaridev
+💻 GitHub: @mahdijafaridev
