@@ -13,6 +13,7 @@ I care about writing clean, maintainable code while delivering fast and solving 
 I'm always learning and exploring better ways to build with AI. I enjoy connecting with engineers, researchers, and product folks who are working at the intersection of backend and GenAI.
 
 Let’s connect if you’re into any of that.
-🌐 mahdijafari.dev
-📝 Blog: https://medium.com/@mahdijafaridev
-💻 GitHub: @mahdijafaridev
+
+- 🌐 mahdijafari.dev
+- 📝 Blog: https://medium.com/@mahdijafaridev
+- 💻 GitHub: @mahdijafaridev
