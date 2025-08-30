@@ -1,4 +1,5 @@
-# Backend + AI Engineer | Python, FastAPI, LLMs, RAG & Agents | micro1.ai Certified
+# AI & Software Engineer
+> Python, FastAPI, LLMs, RAG & Agents | micro1.ai Certified
 
 I'm a backend+AI Engineer with 6+ years of experience building and scaling backend systems. I mainly work with Python and FastAPI, and in recent years, I've been focused on integrating AI into backend workflows — especially LLMs, RAG, and agent-based systems.
 
