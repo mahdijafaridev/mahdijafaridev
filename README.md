@@ -5,7 +5,7 @@ Fullstack software engineer who gets things done.
 ## What I use
 - **Backend:** Python, FastAPI, Django, DRF, PostgreSQL  
 - **Frontend:** TypeScript, React, Next.js, Framer Motion, Tailwind CSS  
-- **AI/LLMs:** LangChain, Agno, CrewAI, RAG, prompt work
+- **AI/LLMs:** LangChain, Agno, CrewAI, RAG, prompt engineering
 
 ## My values
 - Clear and direct communication  
