@@ -1,20 +1,22 @@
-# Senior Software Engineer
-> Python, FastAPI, LLMs, RAG & Agents | micro1.ai Certified
+# Hey, I'm Mahdi
 
-I'm a backend+AI Engineer with 6+ years of experience building and scaling backend systems. I mainly work with Python and FastAPI, and in recent years, I've been focused on integrating AI into backend workflows — especially LLMs, RAG, and agent-based systems.
+Fullstack software engineer who gets things done.
 
-I care about writing clean, maintainable code while delivering fast and solving real problems with practical solutions — no overengineering. Most of my work revolves around:
+## What I use
+- **Backend:** Python, FastAPI, Django, DRF, PostgreSQL  
+- **Frontend:** TypeScript, React, Next.js, Framer Motion, Tailwind CSS  
+- **AI/LLMs:** LangChain, Agno, CrewAI, RAG, prompt work
 
-- Designing scalable backend systems and APIs
+## My values
+- Clear and direct communication  
+- Delivering on time  
+- Writing clean and maintainable code  
 
-- Building LLM agents and RAG pipelines
+## What I build
+- RAG and LLM tools for real business needs  
+- Fast backend APIs  
+- Clean and smooth UIs with React and Next.js  
 
-- Using Docker, CI/CD, and cloud platforms (AWS, GCP) for smooth DevOps workflows
-
-I'm always learning and exploring better ways to build with AI. I enjoy connecting with engineers, researchers, and product folks who are working at the intersection of backend and GenAI.
-
-Let’s connect if you’re into any of that.
-
-- 🌐 [Website](https://mahdijafari.dev/)
-- 📝 [Blog](https://mahdijafari.dev/blog) 
-- 💻 [Linkedin](https://www.linkedin.com/in/mahdijafaridev)
+**Email:** [mahdijafaridev@gmail.com](mailto:mahdijafaridev@gmail.com)  
+**More about me:** [https://mahdijafari.dev](https://mahdijafari.dev)  
+**LinkedIn:** [https://linkedin.com/in/mahdijafaridev](https://linkedin.com/in/mahdijafaridev)
