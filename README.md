@@ -1,6 +1,6 @@
 # Hey, I'm Mahdi
 
-Fullstack software engineer who gets things done.
+Backend engineer who builds AI systems and APIs that work and scales.
 
 ## What I use
 - **Backend:** Python, FastAPI, Django, DRF, PostgreSQL  
