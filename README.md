@@ -17,6 +17,6 @@ Backend engineer who builds AI systems and APIs that work and scales.
 - Fast backend APIs  
 - Clean and smooth UIs with React and Next.js  
 
-**Email:** [mahdijafaridev@gmail.com](mailto:mahdijafaridev@gmail.com)  
+**Email:** [contact@mahdijafari.dev](mailto:contact@mahdijafari.dev)  
 **More about me:** [https://mahdijafari.dev](https://mahdijafari.dev)  
 **LinkedIn:** [https://linkedin.com/in/mahdijafaridev](https://linkedin.com/in/mahdijafaridev)
