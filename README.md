@@ -1,9 +1,9 @@
 # Hey, I'm Mahdi
 
-Backend engineer who builds AI systems and APIs that work and scales.
+Full-stack software engineer shipping fast while building with precision.
 
 ## What I use
-- **Backend:** Python, FastAPI, Django, DRF, PostgreSQL  
+- **Backend:** Python, FastAPI, Django, DRF, PostgreSQL, Node.js
 - **Frontend:** TypeScript, React, Next.js, Framer Motion, Tailwind CSS  
 - **AI/LLMs:** LangChain, Agno, CrewAI, RAG, prompt engineering
 
