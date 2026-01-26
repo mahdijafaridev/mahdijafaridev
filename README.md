@@ -40,7 +40,7 @@ I care about clear boundaries, performance, and keeping business logic understan
 
 ## How I work
 
-- **Direct communication:** No fluff, clear expectations, fast decisions  
+- **Direct communication:** clear expectations, clear communication. 
 - **Shipping fast:** Small iterations, production over perfection  
 - **Quality:** Clean, maintainable code with proper docs and tests where they matter  
 
@@ -48,7 +48,8 @@ I care about clear boundaries, performance, and keeping business logic understan
 
 ## Around the internet
 
-- **Website:** [mahdijafari.dev](https://mahdijafari.dev)  
+- **Website:** [mahdijafari.dev](https://mahdijafari.dev)
+- **Blog:** [medium.com/@mahdijafaridev](https://medium.com/@mahdijafaridev)
 - **YouTube:** [Coding with Mahdi](https://www.youtube.com/@mahdijafaridev)  
 - **LinkedIn:** [linkedin.com/in/mahdijafaridev](https://linkedin.com/in/mahdijafaridev)  
 - **Email:** contact@mahdijafari.dev
