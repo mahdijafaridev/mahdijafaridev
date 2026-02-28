@@ -18,7 +18,8 @@ I build and scale web apps, AI features, and tools – from idea to production.
 ## Selected work
 
 - **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS/side projects fast  
-- **[toeflprep.ai](https://toeflprep.ai)** – AI‑powered TOEFL prep focused on speed and simple UX  
+- **[toeflprep.ai](https://toeflprep.ai)** – AI‑powered TOEFL prep focused on speed and simple UX
+- **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – VoiceType turns your voice into text and pastes it wherever your cursor is — instantly. No cloud, no subscription, no waiting.
 - **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings  
 - **[Day Progress](https://dayprogress.mahdijafari.dev)** – Minimalist macOS menubar app that shows how much of your day has passed  
 - **[fastapi-middlewares](https://github.com/mahdijafaridev/fastapi-middlewares)** – Utilities and middlewares for production‑grade FastAPI apps  
