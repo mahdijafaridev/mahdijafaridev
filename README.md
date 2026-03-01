@@ -29,14 +29,12 @@ I've also built and maintained APIs and systems for products with tens of thousa
 
 ---
 
-## How I build
+## Tech Stack
 
-- **Backend:** Python, FastAPI, Django, DRF, PostgreSQL, Redis, Celery  
-- **Frontend:** TypeScript, React, Next.js, Tailwind CSS, shadcn/ui  
-- **AI / LLMs:** OpenAI, Gemini, LangChain, RAG pipelines, agents, LLM workflows  
-- **DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), Vercel, Supabase  
-
-I care about clear boundaries, performance, and keeping business logic understandable for future engineers.
+**Backend:** Python, FastAPI, Django, DRF, PostgreSQL, Redis, Celery  
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS, shadcn/ui  
+**AI / LLMs:** OpenAI, Gemini, LangChain, RAG pipelines, agents, LLM workflows  
+**DevOps:** Docker, GitHub Actions, GitLab CI, Vercel, Supabase  
 
 ---
 
