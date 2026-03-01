@@ -6,25 +6,26 @@ I build and scale web apps, AI features, and tools – from idea to production.
 
 ---
 
-## What I do
+## Things I've Built
 
-- **Backends:** APIs that are fast, stable, and easy to extend  
-- **Frontends:** Interfaces that feel smooth and stay simple  
-- **AI/LLM:** Features that reduce manual work and save time  
-- **Systems:** Architectures that scale without turning into a mess  
+- 🚀 **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS and side projects fast
+- 🎓 **[toeflprep.ai](https://toeflprep.ai)** – AI-powered TOEFL prep with a focus on speed and simple UX
+- 🎙️ **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – Turns your voice into text and pastes it wherever your cursor is. No cloud, no subscription.
+- ✏️ **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings
+- ⏳ **[Day Progress](https://dayprogress.mahdijafari.dev)** – Minimalist macOS menubar app showing how much of your day has passed
+- ⚙️ **[fastapi-middlewares](https://github.com/mahdijafaridev/fastapi-middlewares)** – Production-grade utilities and middlewares for FastAPI
+
+I've also built and maintained APIs and systems for products with tens of thousands of users.
+
 
 ---
 
-## Things I've Built
+## What I do
 
-- **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS and side projects fast
-- **[toeflprep.ai](https://toeflprep.ai)** – AI-powered TOEFL prep with a focus on speed and simple UX
-- **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – Turns your voice into text and pastes it wherever your cursor is. No cloud, no subscription.
-- **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings
-- **[Day Progress](https://dayprogress.mahdijafari.dev)** – Minimalist macOS menubar app showing how much of your day has passed
-- **[fastapi-middlewares](https://github.com/mahdijafaridev/fastapi-middlewares)** – Production-grade utilities and middlewares for FastAPI
-
-I've also built and maintained APIs and systems for products with tens of thousands of users.
+- **APIs** that are fast, stable, and easy to extend
+- **Frontends** that feel smooth and don't overcomplicate things
+- **AI features** that cut real manual work
+- **System design** that scales without becoming a mess
 
 ---
 
