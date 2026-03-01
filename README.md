@@ -15,16 +15,16 @@ I build and scale web apps, AI features, and tools – from idea to production.
 
 ---
 
-## Selected work
+## Things I've Built
 
-- **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS/side projects fast  
-- **[toeflprep.ai](https://toeflprep.ai)** – AI‑powered TOEFL prep focused on speed and simple UX
-- **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – VoiceType turns your voice into text and pastes it wherever your cursor is — instantly. No cloud, no subscription, no waiting.
-- **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings  
-- **[Day Progress](https://dayprogress.mahdijafari.dev)** – Minimalist macOS menubar app that shows how much of your day has passed  
-- **[fastapi-middlewares](https://github.com/mahdijafaridev/fastapi-middlewares)** – Utilities and middlewares for production‑grade FastAPI apps  
+- **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS and side projects fast
+- **[toeflprep.ai](https://toeflprep.ai)** – AI-powered TOEFL prep with a focus on speed and simple UX
+- **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – Turns your voice into text and pastes it wherever your cursor is. No cloud, no subscription.
+- **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings
+- **[Day Progress](https://dayprogress.mahdijafari.dev)** – Minimalist macOS menubar app showing how much of your day has passed
+- **[fastapi-middlewares](https://github.com/mahdijafaridev/fastapi-middlewares)** – Production-grade utilities and middlewares for FastAPI
 
-I’ve also built and maintained APIs and systems for products with tens of thousands of users.
+I've also built and maintained APIs and systems for products with tens of thousands of users.
 
 ---
 
