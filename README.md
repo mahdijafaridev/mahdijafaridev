@@ -8,7 +8,6 @@ I build and scale web apps, AI features, and tools – from idea to production.
 
 ## Things I've Built
 
-- 🚀 **[shipfast.so](https://shipfast.so)** – Next.js boilerplate to launch SaaS and side projects fast
 - 🎓 **[toeflprep.ai](https://toeflprep.ai)** – AI-powered TOEFL prep with a focus on speed and simple UX
 - 🎙️ **[VoiceType](https://github.com/mahdijafaridev/VoiceType)** – Turns your voice into text and pastes it wherever your cursor is. No cloud, no subscription.
 - ✏️ **[ScreenDraw](https://screendraw.mahdijafari.dev)** – macOS screen annotation tool for quick demos and recordings
